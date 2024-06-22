@@ -1,2 +1,2 @@
 # SOS
-A board game like tic tac toe, where a player has to more SOS(es) in a row than the other to win.
+A board game like tic tac toe, where a player has to more SOS(es) in a row than the other to win. Made with Java using Android Studios .
